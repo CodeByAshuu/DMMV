@@ -1,7 +1,8 @@
-# Dynamic Memory Management Visualizer (DMMV)
+# Dynamic Memory Management Visualizer (DynAlloc)
 
 <p align="center">
-  <img src="./public/favicon.png" alt="Memory Stick" width="200"/>
+  <img src="./public/favicon.png" alt="Memory Stick" width="100"/>
+  <p>DynAlloc</p>
 </p>
 
 
