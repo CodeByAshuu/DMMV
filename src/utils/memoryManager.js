@@ -1,4 +1,4 @@
-// import { firstFit, bestFit, worstFit } from './algorithms';
+import { firstFit, bestFit, worstFit } from './algorithms';
 
 /**
  * Memory Manager class for handling dynamic memory allocation and deallocation
