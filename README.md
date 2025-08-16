@@ -1,10 +1,5 @@
 # Dynamic Memory Management Visualizer (DynAlloc)
 
-<p align="center">
-  <img src="./public/favicon.png" alt="Memory Stick" width="100"/>
-  <p>DynAlloc</p>
-</p>
-
 
 A modern, interactive web application for visualizing dynamic memory allocation algorithms built with React, Vite, and TailwindCSS. Perfect for students, educators, and professionals learning about operating system memory management concepts.
 
