@@ -1,7 +1,8 @@
 # Dynamic Memory Management Visualizer (DMMV)
 
-![Memory Stick](./public/favicon.png)
-
+<p align="center">
+  <img src="./public/favicon.png" alt="Memory Stick" width="200"/>
+</p>
 
 
 A modern, interactive web application for visualizing dynamic memory allocation algorithms built with React, Vite, and TailwindCSS. Perfect for students, educators, and professionals learning about operating system memory management concepts.
