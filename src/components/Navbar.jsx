@@ -18,7 +18,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2 text-white hover:text-primary-300 transition-colors">
               <Memory className="h-8 w-8 text-primary-400" />
-              <span className="font-bold text-xl">DMMV</span>
+              <span className="font-bold text-xl">DynAlloc</span>
             </Link>
           </div>
 
