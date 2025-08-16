@@ -35,7 +35,7 @@ const Navbar = () => {
               >
                 Home
               </Link>
-              <Link
+              {/* <Link
                 to="/visualizer"
                 className={`px-3 py-2 rounded-md text-sm font-medium transition-all duration-200 ${
                   isActive('/visualizer') 
@@ -44,7 +44,7 @@ const Navbar = () => {
                 }`}
               >
                 Visualizer
-              </Link>
+              </Link> */}
             </div>
           </div>
 
