@@ -52,7 +52,7 @@ A modern, interactive web application for visualizing dynamic memory allocation 
 
 2. **Install dependencies**
    ```bash
-   npm install react@^18.3.1 react-dom@^18.3.1 react-router-dom@^7.8.1 lucide-react@^0.344.0
+    npm install react@^18.3.1 react-dom@^18.3.1 react-router-dom@^7.8.1 lucide-react@^0.344.0
 
     npm install --save-dev @vitejs/plugin-react@^4.3.1 vite@^5.4.2 tailwindcss@^3.4.1 postcss@^8.4.35 autoprefixer@^10.4.18 eslint@^9.9.1 @eslint/js@^9.9.1 eslint-plugin-react-hooks@^5.1.0-rc.0 eslint-plugin-react-refresh@^0.4.11 globals@^15.9.0 @types/react@^18.3.5 @types/react-dom@^18.3.0
    ```
