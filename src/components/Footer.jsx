@@ -37,7 +37,7 @@ const Footer = () => {
         
         <div className="mt-6 pt-6 border-t border-gray-700">
           <div className="text-center text-sm text-gray-400">
-            <p>&copy; 2025 Dynamic Memory Management Visualizer. All rights reserved.</p>
+            <p>&copy; 2025 DynAlloc - Dynamic Memory Management Visualizer. All rights reserved.</p>
             <p className="mt-1">Educational project for understanding memory management algorithms</p>
           </div>
         </div>
